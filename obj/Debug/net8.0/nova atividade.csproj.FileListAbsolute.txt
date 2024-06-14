@@ -1,0 +1,14 @@
+C:\Users\adria\Desktop\nova atividade\bin\Debug\net8.0\nova atividade.exe
+C:\Users\adria\Desktop\nova atividade\bin\Debug\net8.0\nova atividade.deps.json
+C:\Users\adria\Desktop\nova atividade\bin\Debug\net8.0\nova atividade.runtimeconfig.json
+C:\Users\adria\Desktop\nova atividade\bin\Debug\net8.0\nova atividade.dll
+C:\Users\adria\Desktop\nova atividade\bin\Debug\net8.0\nova atividade.pdb
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\nova atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\nova atividade.AssemblyInfoInputs.cache
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\nova atividade.AssemblyInfo.cs
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\nova atividade.csproj.CoreCompileInputs.cache
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\nova atividade.dll
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\refint\nova atividade.dll
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\nova atividade.pdb
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\nova atividade.genruntimeconfig.cache
+C:\Users\adria\Desktop\nova atividade\obj\Debug\net8.0\ref\nova atividade.dll
